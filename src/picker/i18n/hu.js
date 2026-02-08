@@ -10,7 +10,7 @@ export default {
   searchResultsLabel: 'Keresési eredmények',
   skinToneDescription: 'Kibontva a fel vagy le nyíl megnyomásával választhat és az enterrel erősítheti meg.',
   skinToneLabel: 'Válasszon bőrtónust (jelenleg {skinTone})',
-  skinTonesLabel: 'Bőrtónus'
+  skinTonesLabel: 'Bőrtónus',
   skinTones: [
     'Alapértelmezett',
     'Világos',
